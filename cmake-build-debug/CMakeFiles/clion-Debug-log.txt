@@ -1,0 +1,4 @@
+D:\Environment\cygwin64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/c++.exe -G "CodeBlocks - Unix Makefiles" -S /cygdrive/d/Projects/CPP_Projects/muse-socket-poll -B /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/cmake-build-debug

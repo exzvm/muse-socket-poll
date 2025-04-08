@@ -1,0 +1,13 @@
+2025-04-08 15:31:00 DEBUG /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/socket/socket.cpp:16 create socket success
+2025-04-08 15:31:00 INFO /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/client.cpp:36 recv: hello world
+
+2025-04-08 15:31:46 DEBUG /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/socket/socket.cpp:16 create socket success
+2025-04-08 15:31:46 INFO /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/client.cpp:36 recv: hello world
+
+2025-04-08 16:34:55 DEBUG /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/socket/socket.cpp:16 create socket success
+2025-04-08 16:34:55 INFO /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/client.cpp:36 recv: hello world
+
+2025-04-08 16:37:07 DEBUG /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/socket/socket.cpp:16 create socket success
+2025-04-08 16:37:07 INFO /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/client.cpp:36 recv: hello world
+
+2025-04-08 16:37:14 DEBUG /cygdrive/d/Projects/CPP_Projects/muse-socket-poll/socket/socket.cpp:16 create socket success

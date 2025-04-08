@@ -1,0 +1,5 @@
+/cygdrive/d/Projects/CPP_Projects/muse-socket-poll/cmake-build-debug/CMakeFiles/server.dir
+/cygdrive/d/Projects/CPP_Projects/muse-socket-poll/cmake-build-debug/CMakeFiles/server_v2.dir
+/cygdrive/d/Projects/CPP_Projects/muse-socket-poll/cmake-build-debug/CMakeFiles/client.dir
+/cygdrive/d/Projects/CPP_Projects/muse-socket-poll/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Projects/CPP_Projects/muse-socket-poll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
